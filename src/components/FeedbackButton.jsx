@@ -10,7 +10,7 @@ const FeedbackButton = () => {
         onClick={() => setShowForm(true)}
         className="mt-8 px-4 py-2 bg-blue-500 text-white rounded"
       >
-        Give Feedback
+        Leave A Review
       </button>
 
       {showForm && (
