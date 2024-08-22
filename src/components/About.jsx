@@ -67,9 +67,9 @@ const About = () => {
               I am a dedicated and passionate tutor with over 3 years of teaching experience. I have a postgraduate degree (MSc) in Mathematics and Computer Science, which has given me a strong foundation in these subjects. I have had the chance to teach many students, helping them do well in their studies and come out from the fear of Mathematics and Coding.
             </h4>
           </div>
-          <p className={`${styles.descriptionText}`}>
+          {/* <p className={`${styles.descriptionText}`}>
             Currently, I am leading two projects and have published numerous papers in internationally renowned conference journals.
-          </p>
+          </p> */}
         </div>
       </div>
     </section>
